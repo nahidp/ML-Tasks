@@ -1,6 +1,6 @@
 In this task, I work on the classification techniques for an unbalanced dataset. The Portuguese Bank Marketing dataset "bank-additional-full.csv" is used for this task which is available in this repository. It is also downloadable through "https://archive.ics.uci.edu/ml/datasets/Bank+Marketing" link.
 
-This project contains **two parts**. The first part is to balance an unbalanced dataset after which I will 
+This project contains **two parts**. The first part is to balance an unbalanced dataset after which I will use different classification algorithms to predict the target value of the new balanced dataset. In part2, I will use three more datasets as benchmarks and run classification algorithms on them as well. It is followed by a Friedman’s test to determine whether there is a statistically significant difference between the achieved accuracies of the classification algorithms.
 
 
 **Part1**

@@ -1,4 +1,4 @@
-In this task, I work on the classification techniques for an unbalanced dataset. The Portuguese Bank Marketing dataset "bank-additional-full.csv" is used for this task which is available in this repository. It is also downloadable thrrough "https://archive.ics.uci.edu/ml/datasets/Bank+Marketing" link.
+In this task, I work on the classification techniques for an unbalanced dataset. The Portuguese Bank Marketing dataset "bank-additional-full.csv" is used for this task which is available in this repository. It is also downloadable through "https://archive.ics.uci.edu/ml/datasets/Bank+Marketing" link.
 
 This project contains **two parts**. The first part is to balance an unbalanced dataset after which I will 
 
@@ -25,3 +25,16 @@ Then, I retrain the “best two” classsification algorithms, with new selected
 
 
 **Part2**
+Three benchmarking datasets are considered for this part, together with the Portuguese Bank Marketing dataset.
+- https://archive.ics.uci.edu/ml/datasets/Labor+Relations
+- https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records
+- https://archive.ics.uci.edu/ml/datasets/Iris
+
+I Apply the SVM, k-NN and RFs algorithms to the three new data sets, using tenfold cross validation, to obtain the average accuracies over the ten folds.
+
+A table showing the average accuracies of the three algorithms against all four data sets is then illustrated.
+
+Next, I use Friedman’s test to determine whether there is a statistically significant difference in the accuracies obtained in question
+B.1, calculate the critical difference (CD) and draw the Nemenyi diagram.
+Hint: Refer to Section 12.3, and notably Example 12.8 and Figure 12.1 (top), of the
+textbook. Also, see the slides that contain the Friedman test values.

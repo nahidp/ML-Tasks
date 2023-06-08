@@ -34,7 +34,4 @@ I Apply the SVM, k-NN and RFs algorithms to the three new data sets, using tenfo
 
 A table showing the average accuracies of the three algorithms against all four data sets is then illustrated.
 
-Next, I use Friedman’s test to determine whether there is a statistically significant difference in the accuracies obtained in question
-B.1, calculate the critical difference (CD) and draw the Nemenyi diagram.
-Hint: Refer to Section 12.3, and notably Example 12.8 and Figure 12.1 (top), of the
-textbook. Also, see the slides that contain the Friedman test values.
+Next, I use Friedman’s test to determine whether there is a statistically significant difference in the accuracies obtained from SVM, k-NN and RFs. I calculate the critical difference (CD) and draw the Nemenyi diagram.

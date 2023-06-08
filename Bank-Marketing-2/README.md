@@ -3,7 +3,7 @@ In this task, I work on the classification techniques for an unbalanced dataset.
 This project contains **two parts**. The first part is to balance an unbalanced dataset after which I will use different classification algorithms to predict the target value of the new balanced dataset. In part2, I will use three more datasets as benchmarks and run classification algorithms on them as well. It is followed by a Friedman’s test to determine whether there is a statistically significant difference between the achieved accuracies of the classification algorithms.
 
 
-**Part1**
+***Part1***
 
 I rebalance the data set using three different below approaches:
  1- Oversampling of the minority class.
@@ -24,7 +24,8 @@ Next, I apply two different feature selection techniques to the data.
 Then, I retrain the “best two” classsification algorithms, with new selected features to determine whether feature selection led to improvements in accuracies. 
 
 
-**Part2**
+
+***Part2***
 
 Three benchmarking datasets are considered for this part, together with the Portuguese Bank Marketing dataset.
 - https://archive.ics.uci.edu/ml/datasets/Labor+Relations

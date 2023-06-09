@@ -13,8 +13,7 @@ I rebalance the data set using three different below approaches:
  
  3- Balanced sampling, i.e. combining oversampling and under-sampling
  
-I then apply the four classification algorithms, i.e. support vector machine (SVM), decision tree, Naïve Bayesian learner and the k‐nearest neighbor (k-NN)), to the
-three resampled data sets. I also use tenfold cross validation for the better classification.
+I then apply four classification algorithms, i.e. support vector machine (SVM), decision tree, Naïve Bayesian learner and the k‐nearest neighbor (k-NN)), to the three resampled datasets. I also use tenfold cross validation for better classification.
 
 Next, I construct two extra models using the random forests (RFs) and extreme learning trees algorithms, again using tenfold cross validation.
 

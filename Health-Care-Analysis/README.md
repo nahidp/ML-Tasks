@@ -16,7 +16,7 @@ Now, I build 6 different classifiers, i.e. SVM, Naibe Bayes, KNN, Decision Tree,
 
 ***3- Predicting gender class***
 
-Task 2: Now, as another exploratory task, I explore the data by using gender as class label to provide us with additional insights.
+As another exploratory task, I explore the data by using gender as class label to provide us with additional insights.
 Various algorithm from the different families such as trees, linear models such as neural networks and support vector machines,
 distance-based algorithms, Bayesian approaches and ensembles, are built.
 

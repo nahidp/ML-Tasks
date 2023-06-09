@@ -6,7 +6,9 @@ I first import the data into my machine learning environment. Next, I construct 
 Below items are investigated:
 
 1- Four classification models are constructed
+
 2- Four confusion matrices corresponding to the models are calculated
+
 3- The ROC Curves are illustrated to contrast the four models.
 
 

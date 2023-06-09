@@ -15,5 +15,7 @@ Below items are investigated:
 If we suppose that the class label has been changed to feature 15, namely the outcome of the **previous** marketing campaign, with values 'failure', 'nonexistent' and 'success':
 
 1- A decision tree algorithm is built to construct a model against this multi-class problem.
+
 2- The ROC Curves using one-versus-one comparisons are illustrated.
+
 3- The AUC when using the one-versus-one scheme is calculated (using both the macro average and a prevalence-weighted average)

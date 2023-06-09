@@ -7,7 +7,7 @@ This project contains **two parts**. The first part is to balance an unbalanced 
 
 I rebalance the data set using three different below approaches:
 
- 1- Oversampling of the minority class.
+ 1- Oversampling of the minority class.\n
  2- Under-sampling of the majority class.
  3- Balanced sampling, i.e. combining oversampling and under-sampling.
  

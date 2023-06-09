@@ -1,4 +1,4 @@
-This project involves the analysis of health care data, as obtainable from "https://archive.ics.uci.edu/ml/machine-learning-databases/00296/"
+This project involves the analysis of health care data, as obtainable from "https://archive.ics.uci.edu/ml/machine-learning-databases/00296/".
 Specifically, the dataset contains the information about patients with diabetes in 130 hospitals in the USA for the years 1999 to 2008. The study consists of approximately 100,000 patients with 55 features, some containing missing values.
 
 The original study, as published in "https://www.hindawi.com/journals/bmri/2014/781670/", looks into the impact of haemoglobin (HbA1c) measurement, which refers to the average level of blood sugar over the past 2 to 3 months, on hospital re-admission rates. The authors used multivariable logistic regression in their study. In this project, my aim is to assess the value of machine learning algorithms, and notably supervised and semisupervised learning techniques, when applied to this data. Below parts are implemented one by one in Project-Code.ipynb.

@@ -1,6 +1,6 @@
 The implementation of the RL-based movement of UAV-BS is done using NS3-AI. 
 
-The environment which includes LTE/EPC, UEs, the UAV-BS, etc. is implemented using a c++ file in NS3, while the intelligent agent that contains Q-learning (QL), deep Q-learning (DQL), or actor-critic deep Q-learning (ACDQL) algorithm, is implemented in python. The c++ and python interact using NS3-AI module which should be installed in NS3 directory. The installation of NS3-AI should be done according to the below link:
+The environment which includes LTE/EPC, UEs, the UAV-BS, etc. is implemented using C++ in NS3, while the intelligent agent that contains Q-learning (QL), deep Q-learning (DQL), or actor-critic deep Q-learning (ACDQL) algorithm, is implemented in python. The c++ and python interact using NS3-AI module which should be installed in NS3 directory. The installation of NS3-AI should be done according to the below link:
 https://github.com/hust-diangroup/ns3-ai
 
 

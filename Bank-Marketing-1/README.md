@@ -3,12 +3,12 @@ The Portuguese Bank Marketing dataset "bank-additional-full.csv" is used for thi
 
 **Part1: Binary Classification**
 
-I first import the data into my machine learning environment. Next, I construct four different ML models using a decision tree, a Naïve Bayesian learner, a support vector machine, and a k‐nearest neighbor classifier. The aim of this binary learning task is to predict whether a client will purchase a product from the bank, i.e. the "output" variable (desired target) is feature 21, with classes 'yes' and 'no'.
+I first import the data into my machine learning environment. Next, I construct four different ML models using a decision tree, a Naïve Bayesian learner, a support vector machine, and a k‐nearest neighbor classifier. The aim of this binary learning task is to predict whether a client will purchase a product from the bank, i.e. the "output" variable (feature 21), with classes 'yes' and 'no'.
 Below items are investigated:
 
-1- Four classification models are constructed
+1- Four classification models are constructed.
 
-2- Four confusion matrices corresponding to the models are calculated
+2- Four confusion matrices corresponding to the models are calculated.
 
 3- The ROC Curves are illustrated to contrast the four models.
 
@@ -21,4 +21,4 @@ If we suppose that the class label has been changed to feature 15, namely the ou
 
 2- The ROC Curves using one-versus-one comparisons are illustrated.
 
-3- The AUC when using the one-versus-one scheme is calculated (using both the macro average and a prevalence-weighted average)
+3- The AUC when using the one-versus-one scheme is calculated (using both the macro average and a prevalence-weighted average).

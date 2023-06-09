@@ -2,6 +2,7 @@ This task is an explorative Machine Learning task. Part1 is binary classificatio
 The Portuguese Bank Marketing dataset "bank-additional-full.csv" is used for this task which is available in this repository. It is also downloadable thrrough "https://archive.ics.uci.edu/ml/datasets/Bank+Marketing" link.
 
 **Part1: Binary Classification**
+
 I first import the data into my machine learning environment. Next, I construct four different ML models using a decision tree, a Naïve Bayesian learner, a support vector machine, and a k‐nearest neighbor classifier. The aim of this binary learning task is to predict whether a client will purchase a product from the bank, i.e. the "output" variable (desired target) is feature 21, with classes 'yes' and 'no'.
 Below items are investigated:
 

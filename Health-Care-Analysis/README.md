@@ -8,15 +8,18 @@ The original study, as published in "https://www.hindawi.com/journals/bmri/2014/
 
 As a first step, I explore the data to obtain a general understanding of the problem domain. Dealing with Null Values, Dimensionality Reduction, Feature Transformation, Normalization and Feature Selection are all performed for preprocessing of data. This step also involves calculating the levels of class imbalance in the dataset, as I move towards supervised learning.
 
+
 **Predicting if the patient is readmitted ("readmitted" feature prediction)**
 
 Now, I build 6 different classifiers, i.e. SVM, Naibe Bayes, KNN, Decision Tree, Boosting and Baging, to predict the outcome in terms of patient re-admissions. This is a multi-class learning problem, with three class labels {no,readmitted within 30 days, readmitted after 30 days}. Various performance critria, such as overall accuracy, f-measure (trade-off between precision and recall) and the runtime, are calculated to compare different models. Area under curve is also calculated for the models.
+
 
 **Predicting gender class**
 
 Task 2: Now, as another exploratory task, I explore the data by using gender as class label to provide us with additional insights.
 Various algorithm from the different families such as trees, linear models such as neural networks and support vector machines,
 distance-based algorithms, Bayesian approaches and ensembles, are built.
+
 
 **Semi-Supervised learning**
 

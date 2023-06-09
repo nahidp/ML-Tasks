@@ -4,8 +4,6 @@ Specifically, the dataset contains the information about patients with diabetes 
 The original study, as published in "https://www.hindawi.com/journals/bmri/2014/781670/", looks into the impact of haemoglobin (HbA1c) measurement, which refers to the average level of blood sugar over the past 2 to 3 months, on hospital re-admission rates. The authors used multivariable logistic regression in their study. In this project, my aim is to assess the value of machine learning algorithms, and notably supervised and semisupervised learning techniques, when applied to this data.
 
 
-
-***Part1***
 **Feature engineering, supervised learning & evaluation of results**
 As a first step, I explore the data to obtain a general understanding of the problem domain. Dealing with Null Values, Dimensionality Reduction, Feature Transformation, Normalization and Feature Selection are all performed for preprocessing of data. This step also involves calculating the levels of class imbalance in the dataset, as I move towards supervised learning.
 

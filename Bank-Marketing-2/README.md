@@ -17,7 +17,7 @@ I then apply four classification algorithms, i.e. support vector machine (SVM), 
 
 Next, I construct two extra models using the random forests (RFs) and extreme learning trees algorithms, again using tenfold cross validation.
 
-A table will be created showing the accuracies of the six algorithms against each one of the ten folds when trained using the best sampling technique.
+A table will be created showing the accuracies of the six algorithms in each of the ten folds with the best sampling technique.
 
 I will next determine whether there is a statistically significant difference in the accuracies obtained by the six algorithms against this dataset.
 

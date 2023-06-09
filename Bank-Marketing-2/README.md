@@ -19,7 +19,7 @@ Next, I construct two extra models using the random forests (RFs) and extreme le
 
 A table will be created showing the accuracies of the six algorithms in each of the ten folds with the best sampling technique.
 
-I will next determine whether there is a statistically significant difference in the accuracies obtained by the six algorithms against this dataset.
+I will next determine whether there is a significant difference in the accuracies obtained by the six algorithms on the Portugues dataset.
 
 Next, I apply two different feature selection techniques to the data.
 
@@ -34,7 +34,7 @@ Three benchmarking datasets are considered for this part, together with the Port
 - https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records
 - https://archive.ics.uci.edu/ml/datasets/Iris
 
-I Apply the SVM, k-NN and RFs algorithms to the three new data sets, using tenfold cross validation, to obtain the average accuracies over the ten folds.
+I Apply the SVM, k-NN and RFs algorithms to the three new data sets, using 10-fold cross validation, to obtain the average accuracies over the ten folds.
 
 A table showing the average accuracies of the three algorithms against all four data sets is then illustrated.
 
